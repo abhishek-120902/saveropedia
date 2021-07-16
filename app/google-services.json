@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877829804411",
+    "project_id": "saveropedia",
+    "storage_bucket": "saveropedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877829804411:android:93b27f5d95e08667cdadde",
+        "android_client_info": {
+          "package_name": "com.abhishek.saveropedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877829804411-stuq80f9dfmjc18i1dp0nl689oqr0gan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOWntonOR-DCk72GawLDAICnW37g6WOrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877829804411-stuq80f9dfmjc18i1dp0nl689oqr0gan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
